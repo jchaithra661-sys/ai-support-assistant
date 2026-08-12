@@ -1,0 +1,187 @@
+text,intent,sentiment_label
+"Delivery for the checkout page accessories has been delayed three times now, this is ridiculous.",shipping_delivery,negative
+How do I reset my two-factor authentication for the checkout page?,technical_support,neutral
+How long does a refund for order #81426 usually take to process?,cancellation_refund,neutral
+"my subscription plan has been running smoothly since the last update, nice work.",technical_support,positive
+"Refund my order #87236 right now, this is the third time it's arrived broken.",cancellation_refund,negative
+The price on the mobile app changed without any warning and now I'm being overcharged.,billing,negative
+What's your refund policy for your website?,cancellation_refund,neutral
+"Nothing loads on the mobile app anymore, I've tried restarting three times.",technical_support,negative
+What payment methods do you accept for the mobile app?,billing,neutral
+"Delivery for the mobile app accessories has been delayed three times now, this is ridiculous.",shipping_delivery,negative
+"I was charged twice for the desktop dashboard and nobody has refunded me yet, this is unacceptable.",billing,negative
+Where can I download the invoice for your website?,billing,neutral
+Can you explain the charge on my statement for order #46463?,billing,neutral
+"Support walked me through the my subscription plan issue patiently, really appreciated it.",technical_support,positive
+My invoice for order #23434 is completely wrong and support has ignored two emails.,billing,negative
+Can I change the delivery address for order #42098 after placing it?,shipping_delivery,neutral
+Can you walk me through installing your website on a second device?,technical_support,neutral
+"I was charged twice for the checkout page and nobody has refunded me yet, this is unacceptable.",billing,negative
+I've been trying to verify my email for your website for a week now with no luck.,account_login,negative
+Can you give me a tracking update for order #64987?,shipping_delivery,neutral
+"Billing support was fast and helpful today, thank you.",billing,positive
+My package for order #22280 arrived damaged and support hasn't responded.,shipping_delivery,negative
+"Just wanted to say your website has made my workflow so much easier, thank you!",product_info,positive
+"My refund for order #54118 landed in my account today, thanks for the quick handling.",cancellation_refund,positive
+"Just wanted to say your website has made my workflow so much easier, thank you!",product_info,positive
+"My refund for order #46048 landed in my account today, thanks for the quick handling.",cancellation_refund,positive
+"None of the specs listed for your website online seem accurate, disappointing.",product_info,negative
+"Nothing loads on the checkout page anymore, I've tried restarting three times.",technical_support,negative
+"Order #22156 arrived a day early, really impressed with the shipping speed!",shipping_delivery,positive
+Can you walk me through installing the desktop dashboard on a second device?,technical_support,neutral
+What are the minimum system requirements for the mobile app?,technical_support,neutral
+My account got locked for no reason and I've lost access to order #13905.,account_login,negative
+Can you tell me how to enable single sign-on for the mobile app?,account_login,neutral
+How long does a refund for order #30926 usually take to process?,cancellation_refund,neutral
+Order #65392 was supposed to arrive last week and there's still no tracking update.,shipping_delivery,negative
+"Just wanted to say the new pricing on the checkout page is very fair, appreciate it.",billing,positive
+Do you ship my subscription plan accessories internationally?,shipping_delivery,neutral
+Where can I download the invoice for my subscription plan?,billing,neutral
+"Packaging for my last order was excellent, thank you for taking care.",shipping_delivery,positive
+"The bug I reported on the desktop dashboard last week is fixed now, great turnaround!",technical_support,positive
+"the checkout page has more features than I expected for the price, really happy with it.",product_info,positive
+"You keep billing me after I cancelled my plan, fix this immediately.",billing,negative
+"The sync feature on the desktop dashboard lost all my data, I'm furious.",technical_support,negative
+"The description for the mobile app doesn't match what I actually received, misleading.",product_info,negative
+Can you explain the charge on my statement for order #36062?,billing,neutral
+"my subscription plan keeps crashing every time I try to log in, this is really frustrating.",technical_support,negative
+"I want to cancel my subscription immediately, your website is not worth the money.",cancellation_refund,negative
+Do you ship the checkout page accessories internationally?,shipping_delivery,neutral
+"Just wanted to say the new pricing on the desktop dashboard is very fair, appreciate it.",billing,positive
+Does the desktop dashboard support integration with third-party calendars?,product_info,neutral
+What courier do you use for orders over $100?,shipping_delivery,neutral
+Can you explain the charge on my statement for order #21395?,billing,neutral
+Can you tell me how to enable single sign-on for my subscription plan?,account_login,neutral
+"Delivery for the checkout page accessories has been delayed three times now, this is ridiculous.",shipping_delivery,negative
+What's the difference between the free and paid tiers of the checkout page?,product_info,neutral
+"The description for the mobile app doesn't match what I actually received, misleading.",product_info,negative
+"Refund my order #68878 right now, this is the third time it's arrived broken.",cancellation_refund,negative
+How long does a refund for order #68878 usually take to process?,cancellation_refund,neutral
+Is there a student discount available for the mobile app?,product_info,neutral
+"Cancelling has been impossible, the button on the checkout page just doesn't work.",cancellation_refund,negative
+"Nothing loads on the checkout page anymore, I've tried restarting three times.",technical_support,negative
+Loved how simple it was to set up two-factor authentication.,account_login,positive
+"Cancelling has been impossible, the button on the mobile app just doesn't work.",cancellation_refund,negative
+Can you give me a tracking update for order #14165?,shipping_delivery,neutral
+"Cancelling has been impossible, the button on your website just doesn't work.",cancellation_refund,negative
+"Just wanted to say the mobile app has made my workflow so much easier, thank you!",product_info,positive
+What's the difference between the free and paid tiers of your website?,product_info,neutral
+I'd like to downgrade my plan starting next month.,cancellation_refund,neutral
+Can you tell me if your website is available in the EU region?,product_info,neutral
+"Just wanted to say the desktop dashboard has made my workflow so much easier, thank you!",product_info,positive
+"Order #46421 arrived a day early, really impressed with the shipping speed!",shipping_delivery,positive
+"My refund for order #54118 landed in my account today, thanks for the quick handling.",cancellation_refund,positive
+My package for order #23434 arrived damaged and support hasn't responded.,shipping_delivery,negative
+My invoice for order #39256 is completely wrong and support has ignored two emails.,billing,negative
+"I was charged twice for the mobile app and nobody has refunded me yet, this is unacceptable.",billing,negative
+Where can I download the invoice for your website?,billing,neutral
+What payment methods do you accept for my subscription plan?,billing,neutral
+Thanks for sorting out my refund for order #30926 so quickly!,billing,positive
+I'm getting an error 500 on the mobile app and it's been broken for two days.,technical_support,negative
+"Just wanted to say the new pricing on your website is very fair, appreciate it.",billing,positive
+Can you give me a tracking update for order #88907?,shipping_delivery,neutral
+I'm getting an error 500 on my subscription plan and it's been broken for two days.,technical_support,negative
+Order #23396 was supposed to arrive last week and there's still no tracking update.,shipping_delivery,negative
+My account got locked for no reason and I've lost access to order #42098.,account_login,negative
+Can you tell me how to enable single sign-on for your website?,account_login,neutral
+"Refund my order #22280 right now, this is the third time it's arrived broken.",cancellation_refund,negative
+The price on your website changed without any warning and now I'm being overcharged.,billing,negative
+My package for order #23396 arrived damaged and support hasn't responded.,shipping_delivery,negative
+I'd like to update the billing address on my account.,billing,neutral
+Can you walk me through installing the mobile app on a second device?,technical_support,neutral
+Do you ship my subscription plan accessories internationally?,shipping_delivery,neutral
+"Order #21395 arrived a day early, really impressed with the shipping speed!",shipping_delivery,positive
+How long does a refund for order #46463 usually take to process?,cancellation_refund,neutral
+What's the process to recover a username I forgot?,account_login,neutral
+Can you tell me if the desktop dashboard is available in the EU region?,product_info,neutral
+Can you walk me through installing the desktop dashboard on a second device?,technical_support,neutral
+Order #21395 was supposed to arrive last week and there's still no tracking update.,shipping_delivery,negative
+My account got locked for no reason and I've lost access to order #13278.,account_login,negative
+"the mobile app has been running smoothly since the last update, nice work.",technical_support,positive
+"Support walked me through the my subscription plan issue patiently, really appreciated it.",technical_support,positive
+"I want to cancel my subscription immediately, the checkout page is not worth the money.",cancellation_refund,negative
+Is there a known issue with your website on Safari?,technical_support,neutral
+Thanks for sorting out my refund for order #14165 so quickly!,billing,positive
+"your website keeps crashing every time I try to log in, this is really frustrating.",technical_support,negative
+What's your refund policy for my subscription plan?,cancellation_refund,neutral
+"None of the specs listed for the desktop dashboard online seem accurate, disappointing.",product_info,negative
+"Cancelling has been impossible, the button on the mobile app just doesn't work.",cancellation_refund,negative
+Can you tell me if the mobile app is available in the EU region?,product_info,neutral
+"Cancelling was painless, appreciate the no-questions-asked policy.",cancellation_refund,positive
+"the mobile app keeps crashing every time I try to log in, this is really frustrating.",technical_support,negative
+"Support walked me through the your website issue patiently, really appreciated it.",technical_support,positive
+Is there a student discount available for the mobile app?,product_info,neutral
+What payment methods do you accept for your website?,billing,neutral
+"Account recovery was surprisingly quick, thank you for the help!",account_login,positive
+I've been trying to verify my email for the desktop dashboard for a week now with no luck.,account_login,negative
+Do you ship the mobile app accessories internationally?,shipping_delivery,neutral
+Order #87397 was supposed to arrive last week and there's still no tracking update.,shipping_delivery,negative
+How do I reset my two-factor authentication for the mobile app?,technical_support,neutral
+What payment methods do you accept for the mobile app?,billing,neutral
+Can you explain the charge on my statement for order #40495?,billing,neutral
+"The bug I reported on the checkout page last week is fixed now, great turnaround!",technical_support,positive
+"the checkout page keeps crashing every time I try to log in, this is really frustrating.",technical_support,negative
+"None of the specs listed for the checkout page online seem accurate, disappointing.",product_info,negative
+Can you tell me if your website is available in the EU region?,product_info,neutral
+I'm getting an error 500 on the checkout page and it's been broken for two days.,technical_support,negative
+How do I reset my two-factor authentication for your website?,technical_support,neutral
+I've been trying to verify my email for the checkout page for a week now with no luck.,account_login,negative
+"I can't log into my account and the password reset link never arrives, very annoying.",account_login,negative
+"your website has been running smoothly since the last update, nice work.",technical_support,positive
+"Just wanted to say the new pricing on your website is very fair, appreciate it.",billing,positive
+Can I change the delivery address for order #98696 after placing it?,shipping_delivery,neutral
+"The description for your website doesn't match what I actually received, misleading.",product_info,negative
+Does the mobile app support integration with third-party calendars?,product_info,neutral
+What's your refund policy for my subscription plan?,cancellation_refund,neutral
+Can you tell me how to enable single sign-on for my subscription plan?,account_login,neutral
+"The sync feature on my subscription plan lost all my data, I'm furious.",technical_support,negative
+"Delivery for the mobile app accessories has been delayed three times now, this is ridiculous.",shipping_delivery,negative
+"I was charged twice for my subscription plan and nobody has refunded me yet, this is unacceptable.",billing,negative
+Can I change the delivery address for order #65392 after placing it?,shipping_delivery,neutral
+The price on the mobile app changed without any warning and now I'm being overcharged.,billing,negative
+What are the minimum system requirements for my subscription plan?,technical_support,neutral
+"The sync feature on the mobile app lost all my data, I'm furious.",technical_support,negative
+"I want to cancel my subscription immediately, the mobile app is not worth the money.",cancellation_refund,negative
+"The description for the desktop dashboard doesn't match what I actually received, misleading.",product_info,negative
+"None of the specs listed for your website online seem accurate, disappointing.",product_info,negative
+"Order #93810 arrived a day early, really impressed with the shipping speed!",shipping_delivery,positive
+My account got locked for no reason and I've lost access to order #13905.,account_login,negative
+How do I change the email linked to my account?,account_login,neutral
+What's your refund policy for my subscription plan?,cancellation_refund,neutral
+"the checkout page has more features than I expected for the price, really happy with it.",product_info,positive
+"your website has more features than I expected for the price, really happy with it.",product_info,positive
+"The bug I reported on your website last week is fixed now, great turnaround!",technical_support,positive
+Can I change the delivery address for order #95181 after placing it?,shipping_delivery,neutral
+"Nothing loads on the checkout page anymore, I've tried restarting three times.",technical_support,negative
+What are the minimum system requirements for the checkout page?,technical_support,neutral
+Thanks for sorting out my refund for order #46463 so quickly!,billing,positive
+My invoice for order #95181 is completely wrong and support has ignored two emails.,billing,negative
+Does the mobile app support integration with third-party calendars?,product_info,neutral
+Can you give me a tracking update for order #22280?,shipping_delivery,neutral
+What's the difference between the free and paid tiers of your website?,product_info,neutral
+My package for order #22280 arrived damaged and support hasn't responded.,shipping_delivery,negative
+Is there a student discount available for the checkout page?,product_info,neutral
+Does the desktop dashboard support integration with third-party calendars?,product_info,neutral
+Where can I download the invoice for the mobile app?,billing,neutral
+"Support walked me through the your website issue patiently, really appreciated it.",technical_support,positive
+I've been trying to verify my email for the desktop dashboard for a week now with no luck.,account_login,negative
+"Refund my order #40495 right now, this is the third time it's arrived broken.",cancellation_refund,negative
+"The sync feature on my subscription plan lost all my data, I'm furious.",technical_support,negative
+What's the difference between the free and paid tiers of the checkout page?,product_info,neutral
+My invoice for order #76237 is completely wrong and support has ignored two emails.,billing,negative
+Is there a known issue with the checkout page on Safari?,technical_support,neutral
+Is there a known issue with the mobile app on Safari?,technical_support,neutral
+"the mobile app has been running smoothly since the last update, nice work.",technical_support,positive
+I want to merge two accounts I accidentally created.,account_login,neutral
+Can I pause my subscription instead of cancelling it outright?,cancellation_refund,neutral
+How do I reset my two-factor authentication for the desktop dashboard?,technical_support,neutral
+Is there a known issue with the desktop dashboard on Safari?,technical_support,neutral
+"My refund for order #46048 landed in my account today, thanks for the quick handling.",cancellation_refund,positive
+The price on the mobile app changed without any warning and now I'm being overcharged.,billing,negative
+"I want to cancel my subscription immediately, my subscription plan is not worth the money.",cancellation_refund,negative
+Thanks for sorting out my refund for order #13478 so quickly!,billing,positive
+"the mobile app has more features than I expected for the price, really happy with it.",product_info,positive
+I'm getting an error 500 on your website and it's been broken for two days.,technical_support,negative
+"The bug I reported on the checkout page last week is fixed now, great turnaround!",technical_support,positive
+What are the minimum system requirements for your website?,technical_support,neutral
+Is there a student discount available for your website?,product_info,neutral
