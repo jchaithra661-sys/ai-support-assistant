@@ -1,0 +1,12 @@
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+scipy==1.15.3
+joblib==1.5.3
+faiss-cpu==1.15.0
+vaderSentiment==3.3.2
+streamlit==1.61.1
+pytest==9.1.1
+
+# Optional — only needed if you enable live LLM generation (see README "Level up")
+# openai>=1.0.0
